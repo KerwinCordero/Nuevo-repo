@@ -1,1 +1,1 @@
-esta es la primera version de archivo2.txt 
+esta es la segunda version de archivo2.txt 
